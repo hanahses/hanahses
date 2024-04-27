@@ -20,11 +20,25 @@
    Languages: 
 <h2>
 <div style="display: inline_block"><br>
-  
+
 <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="center" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+</div>
+
+<h2>
+  <br>
+   Tools: 
+<h2>
+
+<div style="display: inline_block"><br>
+
+<img align="center" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
+<img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+          
 </div>
 
 <h2>Contact me:<h2>
 <a href="https://www.linkedin.com/in/hanah-silva-e-siqueira-113681300/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:https://mail.google.com/mail/u/1/#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href = "https://mail.google.com/mail/u/1/#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
