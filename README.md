@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=493267&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e86af0&size=35&center=true&vCenter=true&width=1000&lines=Hi+there;My+name+is+Hanah+Siqueira;I'm+currently+studying+Computer+Engineering;And+learning+a+little+bit+of+everything;Feel+free+to+see+what+I've+done+so+far;Welcome!+:D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e86af0&size=35&center=true&vCenter=true&width=1000&lines=Hi+there;My+name+is+Hanah;I'm+currently+majoring+in+Computer+Engineering;And+learning+a+little+bit+of+everything;Feel+free+to+see+what+I've+done+so+far;Welcome!+:D)](https://git.io/typing-svg)
 
 <h2>Olá! <br>
-  Me chamo Hanah Siqueira e atualmente estou estudando Engenharia da Computação, e aprendendo um pouco de tudo. <br>
+  Me chamo Hanah e atualmente estou cursando Engenharia da Computação, e aprendendo um pouco de tudo. <br>
   Sinta-se a vontade para ver o que já fiz até agora! <br>
   Bem vindo!</h2>
 
