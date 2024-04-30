@@ -9,7 +9,7 @@
 
 <div align="center">  
   <img align="left" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hanahses&show_icons=true&rank_icon=github&hide=issues&count_private=true&hide_border=false&title_color=e86af0&icon_color=be29ec&text_color=e86af0&bg_color=DEG,493267,9e379f,c79dd7" alt="Hanah's github stats" /> 
-  <img align="right" width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanahses&layout=compact&hide_border=false&theme=blueberry&title_color=e86af0&text_color=e86af0&bg_color=DEG,493267,9e379f,c79dd7" />
+  <img align="right" width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanahses&layout=compact&hide_border=false&theme=dracula&title_color=e86af0&text_color=e86af0&bg_color=DEG,493267,9e379f,c79dd7" />
 
 </div>
 <div align="center">
